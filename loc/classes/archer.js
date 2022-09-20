@@ -29,7 +29,7 @@ export default {
   description: {
     en: 'Archers deal high single target damage and bursty Area of Effect damage. A good archer will always keep their distance and snipe enemies from afar.',
     el: 'Οι τοξότες κάνουν μεγάλη ζημιά σε ένα στόχο τη φορά και εκρηκτική ζημιά σε πολλούς στόχους. Ένας καλός τοξότης κρατάει πάντα απόσταση και στοχεύει από μακριά.',
-    ru: 'Лучники наносят высокий урон по одиночной цели и взрывной урон по области. Хороший лучник всегда будет держать дистанцию и отстреливать врагов издалека.',
+    ru: 'Роль лучника - наносить высокий урон по одиночной цели, а также колоссальный урон по области. Опытный лучник всегда будет держать дистанию - пользоваться преимуществом стрельбы издалека.',
     es: 'Los arqueros tienen un gran daño a un solo objetivo y también poseen un explosivo daño en área. Un buen arquero siempre mantendrá su distancia y disparará a sus enemigos desde lejos.',
     fr: 'Les archers peuvent infliger des dégâts élevés sur une cible précise et des dégâts de zone importants. Un bon archer garde toujours ses distances et élimine ses ennemis de loin.',
     ko: '궁수는 높은 단일 타겟 데미지와 버스트 피해를줍니다. 좋은 궁수는 항상 거리를 벌리고 적을 먼거리에서 저격합니다.',
